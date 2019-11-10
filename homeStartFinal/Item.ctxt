@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Item
+comment0.text=\n\ Enumeration\ class\ Item\n\ The\ items\ in\ the\ game.\n\ \n\ @author\ Olaf\ Chitil\ and\ Lucy\ Mercer\n\ @version\ 19/2/2019\n
+comment1.params=itemString
+comment1.target=Item(java.lang.String)
+comment1.text=\n\ Initialise\ with\ the\ corresponding\ item\ string.\n\ @param\ itemString\ The\ item\ string.\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\n\ @return\ the\ description\ of\ the\ item.\n
+numComments=3
