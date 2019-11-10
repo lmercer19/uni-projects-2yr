@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=LithiumPricing
+comment0.text=\n\ LithiumPricing\ uses\ of\ Hashmaps\ to\ set\ the\ pricing\ of\ the\ \n\ lithium\ as\ this\ class\ is\ responsible\ for\ ensuring\ that\ each\ \n\ lithium\ sample\ is\ given\ a\ price.\ \n\n\ @author\ (Lucy\ Mercer)\n\ @version\ (Final\ 16/10/2019)\n
+comment1.params=lithium
+comment1.target=LithiumPricing(GenerateLithium)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ LithiumPricing\n
+comment2.params=
+comment2.target=java.util.HashMap\ setPrice()
+comment2.text=\n\ Calculates\ what\ grade\ each\ piece\ of\ lithium\ should\ be\ and\ \n\ adds\ them\ to\ an\ arraylist\ based\ on\ their\ grade.\n\ Adds\ the\ price\ and\ arrays\ to\ a\ hashmap.\n\ \n\ @param\ GenerateLithium\ lithium\ allows\ for\ tray\ to\ be\ used\n\ @return\ returns\ the\ hashmap\ that\ has\ been\ created\n
+comment3.params=
+comment3.target=void\ printPrice()
+comment3.text=\n\ Prints\ all\ of\ the\ grades\ and\ prices\ of\ every\ piece\ of\ \n\ lithium\ from\ the\ generated\ tray.\n
+numComments=4

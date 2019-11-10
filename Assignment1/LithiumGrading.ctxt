@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=LithiumGrading
+comment0.text=\n\ This\ class\ makes\ use\ of\ the\ tray\ of\ lithium\ generated\ in\ \n\ the\ GenerateLithium\ class\ so\ that\ the\ lithium\ can\ be\ graded.\n\n\ @author\ (Lucy\ Mercer)\n\ @version\ (Final\ 15/10/2019)\n
+comment1.params=lithium
+comment1.target=LithiumGrading(GenerateLithium)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ LithiumGrading\n
+comment2.params=
+comment2.target=void\ generateGrades()
+comment2.text=\n\ Generates\ the\ grades\ for\ the\ lithium\ and\ places\ them\ in\ \n\ either\ the\ array\ lowGrade\ or\ highGrade\ is\ theyre\ higher\ or\n\ lower\ than\ 25\ (quality\ checking)\n\ \n\ @param\ GenerateLithium\ lithium\ allows\ for\ tray\ to\ be\ used\n
+comment3.params=
+comment3.target=void\ sortingLithium()
+comment3.text=\n\ This\ method\ bubble\ sorts\ the\ two\ arrays\ so\ that\ they\ are\ \n\ in\ acending\ order.\n
+numComments=4

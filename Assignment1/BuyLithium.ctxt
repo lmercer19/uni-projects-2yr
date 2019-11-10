@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=BuyLithium
+comment0.text=\n\ This\ class\ has\ 2\ methods\ findBestPrice\ and\ findHighQuality\n\ \n\ The\ output\ of\ the\ methods\ is\ to\ show\ all\ the\ lithium\ grades\ \n\ with\ their\ prices\ as\ well\ as\ indicate\ to\ the\ buyer\ the\ number\n\ of\ lithium\ grades\ available\n\n\ @author\ (Lucy\ Mercer)\n\ @version\ (Final\ 21/10/19)\n
+comment1.params=lithium
+comment1.target=BuyLithium(LithiumPricing)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ BuyLithium\n
+comment2.params=price
+comment2.target=void\ findBestPrice(int)
+comment2.text=\n\ Iterates\ through\ a\ temporary\ array\ list\ and\ removes\ values\ \n\ that\ are\ above\ the\ price\ specified.\n\ @param\ int\ price,\ lets\ user\ enter\ a\ price\ that\ they\ \n\ wish\ to\ pay\n
+comment3.params=grade
+comment3.target=void\ findHighQuality(int)
+comment3.text=\n\ Iterates\ through\ a\ temporary\ array\ list\ and\ removes\n\ values\ that\ are\ below\ the\ grade\ specified.\n\ @param\ int\ grade,\ lets\ user\ enter\ a\ minimum\ grade\ they\ \n\ wish\ to\ purchase.\n
+numComments=4
